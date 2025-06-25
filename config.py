@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Configuration settings for the Docling PDF Processor.
 """
